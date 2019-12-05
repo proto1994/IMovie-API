@@ -1,0 +1,26 @@
+{
+  "name": "imovie-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proto1994/IMovie-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proto1994/IMovie-API/issues"
+  },
+  "homepage": "https://github.com/proto1994/IMovie-API#readme",
+  "dependencies": {
+    "koa": "2.11.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "7.4.0",
+    "koa2-cors": "^2.0.6",
+    "mysql": "^2.17.1"
+  }
+}
